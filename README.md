@@ -17,7 +17,7 @@
   Workout logging:
   ![Options](./assets/screen2.png)
   Visual tracking:
-  ![Tracking](.assets/screen3.png)
+  ![Tracking](./assets/screen3.png)
   
   Anyone can use this project to track their fitness goals.
   ## License:
